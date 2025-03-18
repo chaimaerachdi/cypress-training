@@ -1,4 +1,3 @@
-"# cypress-training" 
 describe('TestApecil', () => {
   beforeEach(() => {
     cy.visit('https://front-recette3.intencial.fr/connexion#/');
